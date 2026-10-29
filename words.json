@@ -1,0 +1,482 @@
+[
+  {
+    "text": "さくら",
+    "romaji": "sakura"
+  },
+  {
+    "text": "ねこ",
+    "romaji": "neko"
+  },
+  {
+    "text": "あおぞら",
+    "romaji": "aozora"
+  },
+  {
+    "text": "がっこう",
+    "romaji": "gakkou"
+  },
+  {
+    "text": "ともだち",
+    "romaji": "tomodachi"
+  },
+  {
+    "text": "おまつり",
+    "romaji": "omatsuri"
+  },
+  {
+    "text": "たこやき",
+    "romaji": "takoyaki"
+  },
+  {
+    "text": "はなび",
+    "romaji": "hanabi"
+  },
+  {
+    "text": "ほしぞら",
+    "romaji": "hoshizora"
+  },
+  {
+    "text": "おんがく",
+    "romaji": "ongaku"
+  },
+  {
+    "text": "ひまわり",
+    "romaji": "himawari"
+  },
+  {
+    "text": "やきそば",
+    "romaji": "yakisoba"
+  },
+  {
+    "text": "ぶんかさい",
+    "romaji": "bunkasai"
+  },
+  {
+    "text": "としょかん",
+    "romaji": "toshokan"
+  },
+  {
+    "text": "ありがとう",
+    "romaji": "arigatou"
+  },
+  {
+    "text": "ぼうけん",
+    "romaji": "bouken"
+  },
+  {
+    "text": "たいよう",
+    "romaji": "taiyou"
+  },
+  {
+    "text": "うみ",
+    "romaji": "umi"
+  },
+  {
+    "text": "にじ",
+    "romaji": "niji"
+  },
+  {
+    "text": "すいか",
+    "romaji": "suika"
+  },
+  {
+    "text": "あさごはん",
+    "romaji": "asagohan"
+  },
+  {
+    "text": "おひるごはん",
+    "romaji": "ohirugohan"
+  },
+  {
+    "text": "ばんごはん",
+    "romaji": "bangohan"
+  },
+  {
+    "text": "おにぎり",
+    "romaji": "onigiri"
+  },
+  {
+    "text": "みそしる",
+    "romaji": "misoshiru"
+  },
+  {
+    "text": "たまごやき",
+    "romaji": "tamagoyaki"
+  },
+  {
+    "text": "からあげ",
+    "romaji": "karaage"
+  },
+  {
+    "text": "やさい",
+    "romaji": "yasai"
+  },
+  {
+    "text": "くだもの",
+    "romaji": "kudamono"
+  },
+  {
+    "text": "りんご",
+    "romaji": "ringo"
+  },
+  {
+    "text": "みかん",
+    "romaji": "mikan"
+  },
+  {
+    "text": "いちご",
+    "romaji": "ichigo"
+  },
+  {
+    "text": "ぶどう",
+    "romaji": "budou"
+  },
+  {
+    "text": "もも",
+    "romaji": "momo"
+  },
+  {
+    "text": "なし",
+    "romaji": "nashi"
+  },
+  {
+    "text": "ばなな",
+    "romaji": "banana"
+  },
+  {
+    "text": "ぱん",
+    "romaji": "pan"
+  },
+  {
+    "text": "ぎゅうにゅう",
+    "romaji": "gyuunyuu"
+  },
+  {
+    "text": "おちゃ",
+    "romaji": "ocha"
+  },
+  {
+    "text": "こうちゃ",
+    "romaji": "koucha"
+  },
+  {
+    "text": "すずめ",
+    "romaji": "suzume"
+  },
+  {
+    "text": "つばめ",
+    "romaji": "tsubame"
+  },
+  {
+    "text": "ぺんぎん",
+    "romaji": "pengin"
+  },
+  {
+    "text": "いるか",
+    "romaji": "iruka"
+  },
+  {
+    "text": "くじら",
+    "romaji": "kujira"
+  },
+  {
+    "text": "きりん",
+    "romaji": "kirin"
+  },
+  {
+    "text": "らいおん",
+    "romaji": "raion"
+  },
+  {
+    "text": "ぞう",
+    "romaji": "zou"
+  },
+  {
+    "text": "うさぎ",
+    "romaji": "usagi"
+  },
+  {
+    "text": "いぬ",
+    "romaji": "inu"
+  },
+  {
+    "text": "たぬき",
+    "romaji": "tanuki"
+  },
+  {
+    "text": "きつね",
+    "romaji": "kitsune"
+  },
+  {
+    "text": "かめ",
+    "romaji": "kame"
+  },
+  {
+    "text": "かえる",
+    "romaji": "kaeru"
+  },
+  {
+    "text": "とんぼ",
+    "romaji": "tonbo"
+  },
+  {
+    "text": "ちょうちょ",
+    "romaji": "choucho"
+  },
+  {
+    "text": "かぶとむし",
+    "romaji": "kabutomushi"
+  },
+  {
+    "text": "あさひ",
+    "romaji": "asahi"
+  },
+  {
+    "text": "ゆうやけ",
+    "romaji": "yuuyake"
+  },
+  {
+    "text": "あまぐも",
+    "romaji": "amagumo"
+  },
+  {
+    "text": "ゆきだるま",
+    "romaji": "yukidaruma"
+  },
+  {
+    "text": "かみなり",
+    "romaji": "kaminari"
+  },
+  {
+    "text": "つき",
+    "romaji": "tsuki"
+  },
+  {
+    "text": "ながれぼし",
+    "romaji": "nagareboshi"
+  },
+  {
+    "text": "やま",
+    "romaji": "yama"
+  },
+  {
+    "text": "かわ",
+    "romaji": "kawa"
+  },
+  {
+    "text": "もり",
+    "romaji": "mori"
+  },
+  {
+    "text": "いけ",
+    "romaji": "ike"
+  },
+  {
+    "text": "たんぽぽ",
+    "romaji": "tanpopo"
+  },
+  {
+    "text": "あじさい",
+    "romaji": "ajisai"
+  },
+  {
+    "text": "もみじ",
+    "romaji": "momiji"
+  },
+  {
+    "text": "どんぐり",
+    "romaji": "donguri"
+  },
+  {
+    "text": "まつぼっくり",
+    "romaji": "matsubokkuri"
+  },
+  {
+    "text": "えんぴつ",
+    "romaji": "enpitsu"
+  },
+  {
+    "text": "けしごむ",
+    "romaji": "keshigomu"
+  },
+  {
+    "text": "じょうぎ",
+    "romaji": "jougi"
+  },
+  {
+    "text": "ふでばこ",
+    "romaji": "fudebako"
+  },
+  {
+    "text": "きょうかしょ",
+    "romaji": "kyoukasho"
+  },
+  {
+    "text": "こくばん",
+    "romaji": "kokuban"
+  },
+  {
+    "text": "じかんわり",
+    "romaji": "jikanwari"
+  },
+  {
+    "text": "きゅうしょく",
+    "romaji": "kyuushoku"
+  },
+  {
+    "text": "たいいく",
+    "romaji": "taiiku"
+  },
+  {
+    "text": "りか",
+    "romaji": "rika"
+  },
+  {
+    "text": "すうがく",
+    "romaji": "suugaku"
+  },
+  {
+    "text": "こくご",
+    "romaji": "kokugo"
+  },
+  {
+    "text": "えいご",
+    "romaji": "eigo"
+  },
+  {
+    "text": "びじゅつ",
+    "romaji": "bijutsu"
+  },
+  {
+    "text": "ぶかつ",
+    "romaji": "bukatsu"
+  },
+  {
+    "text": "うんどうかい",
+    "romaji": "undoukai"
+  },
+  {
+    "text": "えんそく",
+    "romaji": "ensoku"
+  },
+  {
+    "text": "しゅうがくりょこう",
+    "romaji": "shuugakuryokou"
+  },
+  {
+    "text": "でんしゃ",
+    "romaji": "densha"
+  },
+  {
+    "text": "じてんしゃ",
+    "romaji": "jitensha"
+  },
+  {
+    "text": "ひこうき",
+    "romaji": "hikouki"
+  },
+  {
+    "text": "ふね",
+    "romaji": "fune"
+  },
+  {
+    "text": "しんごう",
+    "romaji": "shingou"
+  },
+  {
+    "text": "おうだんほどう",
+    "romaji": "oudanhodou"
+  },
+  {
+    "text": "えき",
+    "romaji": "eki"
+  },
+  {
+    "text": "こうえん",
+    "romaji": "kouen"
+  },
+  {
+    "text": "ゆうびんきょく",
+    "romaji": "yuubinkyoku"
+  },
+  {
+    "text": "ほんや",
+    "romaji": "honya"
+  },
+  {
+    "text": "すいぞくかん",
+    "romaji": "suizokukan"
+  },
+  {
+    "text": "どうぶつえん",
+    "romaji": "doubutsuen"
+  },
+  {
+    "text": "はくぶつかん",
+    "romaji": "hakubutsukan"
+  },
+  {
+    "text": "えいがかん",
+    "romaji": "eigakan"
+  },
+  {
+    "text": "てんらんかい",
+    "romaji": "tenrankai"
+  },
+  {
+    "text": "しゃしん",
+    "romaji": "shashin"
+  },
+  {
+    "text": "おりがみ",
+    "romaji": "origami"
+  },
+  {
+    "text": "しょうぎ",
+    "romaji": "shougi"
+  },
+  {
+    "text": "けんだま",
+    "romaji": "kendama"
+  },
+  {
+    "text": "なわとび",
+    "romaji": "nawatobi"
+  },
+  {
+    "text": "さんぽ",
+    "romaji": "sanpo"
+  },
+  {
+    "text": "どくしょ",
+    "romaji": "dokusho"
+  },
+  {
+    "text": "りょうり",
+    "romaji": "ryouri"
+  },
+  {
+    "text": "えんそう",
+    "romaji": "ensou"
+  },
+  {
+    "text": "はくしゅ",
+    "romaji": "hakushu"
+  },
+  {
+    "text": "おばけやしき",
+    "romaji": "obakeyashiki"
+  },
+  {
+    "text": "てんじ",
+    "romaji": "tenji"
+  },
+  {
+    "text": "きねんひん",
+    "romaji": "kinenhin"
+  },
+  {
+    "text": "あんない",
+    "romaji": "annai"
+  }
+]

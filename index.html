@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="robots" content="noindex,nofollow">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>文化祭タイピング デモ版</title>
+  <link rel="stylesheet" href="./style.css">
+  <link rel="stylesheet" href="./ranking.css">
+  <script type="module" src="./app.js"></script>
+</head>
+<body>
+  <span id="demo-badge" class="demo-badge">デモ版</span>
+  <main>
+    <header><span>文化祭タイピング</span></header>
+    <section id="home">
+      <p class="mode-label">ひとりであそぶ・60秒</p>
+      <h1>タイピングゲーム！</h1>
+      <form id="start-form">
+        <label for="username">ユーザネーム</label>
+        <input id="username" name="username" type="text" maxlength="20" autocomplete="off" placeholder="名前を入力（未入力ならゲスト）" aria-describedby="name-note">
+        <p id="name-note" class="fine">本名でなくてOK。名前と成績は保存しません。</p>
+        <button id="start" type="submit" disabled>読み込み中…</button>
+      </form>
+      <p id="load-status" role="status"></p><a class="ranking-link" href="./ranking.html" hidden>今日のランキングを見る</a>
+      <details class="instructions"><summary>あそびかた</summary><p>半角英数にして、表示されたローマ字を入力しよう。<br>正しく打つと1点。ミスしてもそのまま続けてOK。</p><p>「ん」は語中で n / nn、語尾では nn。<br>プレイ中は Esc で最初の画面に戻れます。</p></details>
+    </section>
+    <section id="countdown" hidden class="center"><p class="eyebrow">開始まで</p><h1 id="count-number" aria-live="polite">3</h1><p>半角英数で入力してね</p><p class="fine">Esc：最初の画面へ</p></section>
+    <section id="play" hidden tabindex="-1">
+      <div class="word-card" id="word-card"><p class="eyebrow">表示どおりのローマ字を入力</p><h2 id="word"></h2><p class="romaji"><span id="typed"></span><span id="current"></span><span id="pending"></span></p></div>
+      <div class="game-top"><h1>タイピング中</h1><p id="player-name" class="player-name"></p><div><span class="metric-label">残り時間</span><strong id="timer">60.0</strong><span> 秒</span></div></div>
+      <div class="time-track"><div id="time-bar"></div></div>
+      <div class="stats"><div><span class="metric-label">得点</span><strong id="score">0</strong></div><div><span class="metric-label">ミス</span><strong id="miss">0</strong></div><div><span class="metric-label">正確率</span><strong id="accuracy">0.0%</strong></div></div>
+      <p id="input-notice" role="status">半角英数・小文字で入力してください</p>
+      <p class="fine">Esc：中断して最初の画面へ ／ タブを切り替えても時間は進みます。</p>
+    </section>
+    <section id="result" hidden class="center"><p class="eyebrow">終了</p><h1 tabindex="-1" id="result-title">結果</h1><p id="result-player"></p><div class="result-score"><strong id="final-score">0</strong><span>点</span></div><div class="stats result-stats"><div><span class="metric-label">正入力</span><strong id="final-correct"></strong></div><div><span class="metric-label">ミス</span><strong id="final-miss"></strong></div><div><span class="metric-label">正確率</span><strong id="final-accuracy"></strong></div><div><span class="metric-label">クリアした問題</span><strong id="final-completed"></strong></div></div><p class="fine">デモ版のため、この記録は保存されません。</p><div class="register-panel" hidden><button id="register" type="button">この記録をランキングに登録</button><p id="register-status" role="status">登録すると名前と記録が教室のスクリーンにも表示されます。</p><a class="ranking-link" href="./ranking.html" hidden>今日のランキングを見る</a></div><div class="actions"><button id="retry">もう一度あそぶ</button><button id="back" class="secondary">タイトルへ</button></div></section>
+    <footer>文化祭タイピング ／ SOLO</footer>
+  </main>
+</body>
+</html>

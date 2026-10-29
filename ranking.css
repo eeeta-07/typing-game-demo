@@ -1,0 +1,17 @@
+.ranking-page{max-width:1040px}.ranking-page h1{margin:24px 0 12px;font-size:36px}.ranking-nav,.pagination{display:flex;align-items:center;justify-content:center;gap:24px;margin:24px 0}.ranking-nav button,.pagination button{font-size:14px;padding:8px 18px}.ranking-nav a,.ranking-link{color:#195aad;text-underline-offset:4px}.table-wrap{overflow-x:auto}table{width:100%;border-collapse:collapse;table-layout:fixed;background:#fff;text-align:center}th,td{padding:14px 12px;border-bottom:1px solid #d7e4f7}th{background:#dbeaff;font-size:14px}th:first-child{width:14%}th:nth-child(2){width:46%}td:nth-child(2){overflow-wrap:anywhere}td:nth-child(3){font-weight:800}tbody tr:nth-child(even){background:#f8fbff}#ranking-status{font-size:13px;min-height:20px;color:#4b719f}.register-panel{margin:24px auto;max-width:420px}#register-status{font-size:14px;min-height:24px}.ranking-link{display:inline-block;margin:18px 8px}.screen-mode main{max-width:1500px;padding:0 4vw}.screen-mode header{padding:12px 0 0}.screen-mode h1{font-size:clamp(30px,4vw,54px);margin:8px 0}.screen-mode #ranking-day{margin:8px 0}.screen-mode table{font-size:clamp(18px,2.5vw,32px)}.screen-mode th{font-size:20px}.screen-mode td,.screen-mode th{padding:clamp(6px,1.1vh,14px) 14px}.screen-mode footer{padding:14px 0}.screen-mode #ranking-status{margin:8px 0}@media(max-width:600px){th,td{padding:12px 6px;font-size:14px}.ranking-page h1{font-size:28px}.screen-mode th{font-size:14px}.screen-mode td{font-size:18px}}
+.screen-mode table{font-size:clamp(18px,2.6vh,30px);line-height:1.2}.screen-mode th{font-size:clamp(14px,2.1vh,20px)}.screen-mode td,.screen-mode th{padding:clamp(5px,.8vh,10px) 14px}
+
+/* Projection view: use the screen for ten large rows, without small captions. */
+.screen-mode{overflow:hidden}
+.screen-mode main{height:100vh;height:100svh;max-width:none;padding:2vh 3vw;display:flex;flex-direction:column}
+.screen-mode h1{flex:none;font-size:clamp(30px,6vh,130px);line-height:1.2;margin:0 0 1.5vh}
+.screen-mode .table-wrap{flex:1;min-height:0;overflow:hidden}
+.screen-mode table{height:100%;font-size:clamp(24px,min(3.4vw,4.7vh),120px);line-height:1.15}
+.screen-mode th{font-size:clamp(20px,3.3vh,80px);height:6vh}
+.screen-mode td,.screen-mode th{padding:.6vh 1vw}
+.screen-mode th:first-child{width:14%}
+.screen-mode th:nth-child(2){width:62%}
+.screen-mode th:nth-child(3){width:24%}
+.screen-mode td:nth-child(2){white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.screen-mode td:first-child,.screen-mode td:nth-child(3){font-weight:800}
+.screen-mode #ranking-status{flex:none;font-size:clamp(18px,2.5vh,48px);margin:0 0 1vh}
